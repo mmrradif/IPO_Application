@@ -1,0 +1,16 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using IPOApplication.Areas.Identity
+@using IPOApplication.Areas.Identity.Pages
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+
+
+@using IPOApplication
+@using IPOApplication.Models
+
+@using Microsoft.AspNetCore.Authorization;
+
+
+@inject SignInManager<ApplicationUser> signInManager
+@inject IAuthorizationService authorizationService

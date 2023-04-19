@@ -1,0 +1,69 @@
+﻿@model List<IPOApplication.Models.IPO_Application>
+
+<h2>Approved Applications:</h2>
+
+@if (Model.Count == 0)
+{
+    <p>There are no approved applications.</p>
+}
+else
+{
+    @*<table class="table">
+        <thead>
+            <tr>
+                <th>User ID</th>
+                <th>Instrument</th>
+                <th>Application Amount</th>
+                <th>Approval Date</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var application in Model)
+            {
+                <tr>
+                    <td>@application.UserId</td>
+                    <td>@application.instrument.InstrumentName</td>
+                    <td>@application.ApplicationAmount</td>
+                    <td>@application.CreateDate.ToShortDateString()</td>
+
+                </tr>
+            }
+        </tbody>
+    </table>*@
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>User ID</th>
+                <th>Instrument</th>
+                <th>Application Amount</th>
+                <th>Approval Date</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var application in Model)
+            {
+                <tr>
+                    <td>@application.UserId</td>
+                    <td>@application.Instrument.InstrumentName</td>
+                    <td>@application.ApplicationAmount</td>
+                    <td>@application.CreateDate.ToShortDateString()</td>
+
+                    <td>
+                        @if (application.IsExecuted == 0)
+                        {
+                            <h6 class="btn text-danger">Not Executed</h6>
+                        }
+                        else
+                        {
+                            <h6 class="text-info">Executed</h6>
+                        }
+                    </td>
+
+
+                </tr>
+            }
+        </tbody>
+    </table>
+}

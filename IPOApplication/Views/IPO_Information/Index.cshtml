@@ -1,0 +1,82 @@
+﻿@model IEnumerable<IPOApplication.Models.IPO_Information>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<p>
+    <a class="btn btn-primary" asp-action="Create">
+         Create New
+    </a>
+</p>
+
+<div class="table-responsive">
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.InstrumentName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Facevalue)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Premium)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.IPORate)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.MinimumAmount)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.IPOStartDate)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.IPOEndDate)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.InstrumentName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Facevalue)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Premium)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.IPORate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.MinimumAmount)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.IPOStartDate.Date)
+                      
+
+                    </td>
+                    <td>  @Html.DisplayFor(modelItem => item.IPOEndDate.Date)</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.InstrumentId">
+                            Edit
+                        </a> |
+                        <a asp-action="Details" asp-route-id="@item.InstrumentId">
+                            Details
+                        </a> |
+                        <a asp-action="Delete" asp-route-id="@item.InstrumentId">
+                           Delete
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

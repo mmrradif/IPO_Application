@@ -1,0 +1,142 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - IPOApplication</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/IPOApplication.styles.css" asp-append-version="true" />
+
+
+    <style>
+        .navbar {
+            background-color: transparent;
+            border: none;
+        }
+
+        .navbar-brand {
+            font-weight: bold;
+            font-size: 1.5rem;
+            letter-spacing: 2px;
+        }
+
+        .nav-item {
+            position: relative;
+            padding: 0.10rem;
+            display: inline-block;
+            cursor: pointer;
+            transition: all 0.3s ease-out;
+        }
+
+            .nav-item:after {
+                content: "";
+                position: absolute;
+                left: 0;
+                bottom: -3px;
+                width: 0;
+                height: 3px;
+                background-color: #806969;
+                transition: all 0.3s ease-out;
+            }
+
+            .nav-item:hover {
+                color: black;
+                transform: translateX(3px);
+            }
+
+                .nav-item:hover:after {
+                    width: 100%;
+                }
+    </style>
+
+   
+
+</head>
+<body>
+    <header style="background-color: rgba(252, 254, 253, 0.3);">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">IPOApplication</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+
+                        <li class="nav-item" style="background-color: rgba(252, 254, 253, 0.3);">
+                            <a class="btn shadow" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+
+                        <li class="nav-item" style="background-color: rgba(252, 254, 253, 0.3);">
+                            <a class="btn shadow " asp-area="" asp-controller="IPO" asp-action="Index">IPO Application</a>
+                        </li>
+
+                        <li class="nav-item" style="background-color: rgba(252, 254, 253, 0.3);">
+                            <a class="btn shadow " asp-area="" asp-controller="IPO" asp-action="Success">Applied</a>
+                        </li>
+
+                       @* @if (signInManager.IsSignedIn(User) && User.IsInRole("") )
+                        {
+                            <li class="nav-item" style="background-color: rgba(252, 254, 253, 0.3);">
+                                <a class="btn shadow " asp-area="" asp-controller="IPO" asp-action="Index">IPO Application</a>
+                            </li>
+
+                            <li class="nav-item" style="background-color: rgba(252, 254, 253, 0.3);">
+                                <a class="btn shadow " asp-area="" asp-controller="IPO" asp-action="Success">Applied</a>
+                            </li>
+                        }*@
+
+                       
+
+                        @if (signInManager.IsSignedIn(User) && User.IsInRole("super admin"))
+                        {                   
+                            <li class="nav-item" style="background-color: rgba(252, 254, 253, 0.3);">
+                                <a class="btn shadow " asp-area="" asp-controller="Administration" asp-action="ListUsers">User Dashboard</a>
+                            </li>
+                        }
+
+
+
+                        @if (signInManager.IsSignedIn(User) && User.IsInRole("super admin") || User.IsInRole("admin"))
+                        {
+                            <li class="nav-item" style="background-color: rgba(252, 254, 253, 0.3);">
+                                <a class="btn shadow" asp-area="" asp-controller="Administration" asp-action="ListRoles">Role Dashboard</a>
+                            </li>
+
+                            <li class="nav-item" style="background-color: rgba(252, 254, 253, 0.3);">
+                                <a class="btn shadow " asp-area="" asp-controller="IPO_Information" asp-action="Index">IPO_Information</a>
+                            </li>
+
+                            <li class="nav-item" style="background-color: rgba(252, 254, 253, 0.3);">
+                                <a class="btn shadow " asp-area="" asp-controller="IPO_Information" asp-action="Approved">Execute</a>
+                            </li>
+                        }
+
+                                       
+                    </ul>
+                    <partial name="_LoginPartial" />
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="footer text-muted shadow">
+        <div class="container text-center">
+            <i>&copy;Md. Mahbur Rahman</i>
+        </div>
+    </footer>
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

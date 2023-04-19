@@ -1,0 +1,52 @@
+﻿@model List<IPOApplication.Models.IPO_Application>
+
+
+    <div class="d-flex justify-content-end py-3">
+  
+        <a class="btn btn-primary shadow " asp-area="" asp-controller="IPO" asp-action="Approved">Approved Application</a>
+  
+    </div>
+
+<h2 class="text-center p-2">Applications awaiting approval:</h2>
+
+@if (Model.Count == 0)
+{
+    <p>There are no applications awaiting approval.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>User ID</th>
+                <th>Instrument</th>
+                <th>Application Amount</th>
+                <th>Submitted Date</th>
+                <th>Action</th>
+               
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var application in Model)
+            {
+                <tr>
+                    <td>@application.UserId</td>
+                    <td>@application.Instrument.InstrumentName</td>
+                    <td>@application.ApplicationAmount</td>
+                    <td>@application.CreateDate.ToShortDateString()</td>
+                    <td>
+                                     
+                        <form method="post" asp-action="Approved" asp-controller="IPO">
+                            <input type="hidden" name="id" value="@application.Id" />
+                            <button type="submit" class="btn btn-primary">Approve</button>
+                        </form>
+
+                    </td>
+
+                   
+
+                </tr>
+            }
+        </tbody>
+    </table>
+}

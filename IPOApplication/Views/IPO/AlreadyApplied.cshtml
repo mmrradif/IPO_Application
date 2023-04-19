@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Already Applied";
+}
+
+<div class="container" style="background-color: rgba(252, 254, 253, 0.5);" >
+    <div class="row">
+        <div class="col-sm-12 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+            <div class="card mt-5 shadow-lg p-5">
+                <div class="card-header">
+                    <h3 class="text-center">Already Applied</h3>
+                </div>
+                <div class="card-body">
+                    <p class="text-center">It looks like you've already applied for this IPO within the specified dates. Please wait for your application to be processed.</p>
+                    <div class="text-center">
+                        <a asp-action="Index" asp-controller="IPO" class="btn btn-primary">Return Home</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

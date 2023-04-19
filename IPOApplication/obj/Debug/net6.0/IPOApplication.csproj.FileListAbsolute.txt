@@ -1,0 +1,1120 @@
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\appsettings.json
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\IPOApplication.staticwebassets.runtime.json
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\IPOApplication.exe
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\IPOApplication.deps.json
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\IPOApplication.runtimeconfig.json
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\IPOApplication.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\IPOApplication.pdb
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.csproj.AssemblyReference.cache
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.AssemblyInfoInputs.cache
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.AssemblyInfo.cs
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.csproj.CoreCompileInputs.cache
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.RazorAssemblyInfo.cache
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.RazorAssemblyInfo.cs
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\staticwebassets\msbuild.IPOApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\staticwebassets\msbuild.build.IPOApplication.props
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.IPOApplication.props
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.IPOApplication.props
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\scopedcss\bundle\IPOApplication.styles.css
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\scopedcss\projectbundle\IPOApplication.bundle.scp.css
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.csproj.CopyComplete
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\refint\IPOApplication.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.pdb
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.genruntimeconfig.cache
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\ref\IPOApplication.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Anas\Desktop\Practice\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\appsettings.Development.json
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\appsettings.json
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\IPOApplication.staticwebassets.runtime.json
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\IPOApplication.exe
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\IPOApplication.deps.json
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\IPOApplication.runtimeconfig.json
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\IPOApplication.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\IPOApplication.pdb
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Humanizer.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\MessagePack.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\MessagePack.Annotations.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.Build.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\NuGet.Common.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\NuGet.Configuration.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\NuGet.Frameworks.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\NuGet.LibraryModel.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\NuGet.Packaging.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\NuGet.ProjectModel.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\NuGet.Protocol.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\NuGet.Versioning.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Composition.Convention.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Composition.Hosting.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Composition.Runtime.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Composition.TypedParts.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.csproj.AssemblyReference.cache
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.GeneratedMSBuildEditorConfig.editorconfig
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.AssemblyInfoInputs.cache
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.AssemblyInfo.cs
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.csproj.CoreCompileInputs.cache
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.MvcApplicationPartsAssemblyInfo.cs
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.MvcApplicationPartsAssemblyInfo.cache
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.RazorAssemblyInfo.cache
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.RazorAssemblyInfo.cs
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\staticwebassets\msbuild.IPOApplication.Microsoft.AspNetCore.StaticWebAssets.props
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\staticwebassets\msbuild.build.IPOApplication.props
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.IPOApplication.props
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.IPOApplication.props
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\staticwebassets.pack.json
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\staticwebassets.build.json
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\staticwebassets.development.json
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\scopedcss\bundle\IPOApplication.styles.css
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\scopedcss\projectbundle\IPOApplication.bundle.scp.css
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.csproj.CopyComplete
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\refint\IPOApplication.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.pdb
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.genruntimeconfig.cache
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\ref\IPOApplication.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\appsettings.Development.json
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\appsettings.json
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\IPOApplication.staticwebassets.runtime.json
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\IPOApplication.exe
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\IPOApplication.deps.json
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\IPOApplication.runtimeconfig.json
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\IPOApplication.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\IPOApplication.pdb
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Humanizer.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\MessagePack.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\MessagePack.Annotations.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.Build.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\NuGet.Common.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\NuGet.Configuration.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\NuGet.Frameworks.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\NuGet.LibraryModel.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\NuGet.Packaging.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\NuGet.ProjectModel.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\NuGet.Protocol.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\NuGet.Versioning.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\System.Composition.Convention.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\System.Composition.Hosting.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\System.Composition.Runtime.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\System.Composition.TypedParts.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\obj\Debug\net6.0\IPOApplication.csproj.AssemblyReference.cache
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\obj\Debug\net6.0\IPOApplication.GeneratedMSBuildEditorConfig.editorconfig
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\obj\Debug\net6.0\IPOApplication.AssemblyInfoInputs.cache
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\obj\Debug\net6.0\IPOApplication.AssemblyInfo.cs
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\obj\Debug\net6.0\IPOApplication.csproj.CoreCompileInputs.cache
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\obj\Debug\net6.0\IPOApplication.MvcApplicationPartsAssemblyInfo.cs
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\obj\Debug\net6.0\IPOApplication.MvcApplicationPartsAssemblyInfo.cache
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\obj\Debug\net6.0\IPOApplication.RazorAssemblyInfo.cache
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\obj\Debug\net6.0\IPOApplication.RazorAssemblyInfo.cs
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\obj\Debug\net6.0\staticwebassets\msbuild.IPOApplication.Microsoft.AspNetCore.StaticWebAssets.props
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\obj\Debug\net6.0\staticwebassets\msbuild.build.IPOApplication.props
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.IPOApplication.props
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.IPOApplication.props
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\obj\Debug\net6.0\staticwebassets.pack.json
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\obj\Debug\net6.0\staticwebassets.build.json
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\obj\Debug\net6.0\staticwebassets.development.json
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\obj\Debug\net6.0\scopedcss\bundle\IPOApplication.styles.css
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\obj\Debug\net6.0\scopedcss\projectbundle\IPOApplication.bundle.scp.css
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\obj\Debug\net6.0\IPOApplication.csproj.CopyComplete
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\obj\Debug\net6.0\IPOApplication.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\obj\Debug\net6.0\refint\IPOApplication.dll
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\obj\Debug\net6.0\IPOApplication.pdb
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\obj\Debug\net6.0\IPOApplication.genruntimeconfig.cache
+G:\DIMIK INFO TECH LIMITED\.NET 6\IPOApplicationWithCORE - Copy (4)\IPOApplication\obj\Debug\net6.0\ref\IPOApplication.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\appsettings.Development.json
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\appsettings.json
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\IPOApplication.staticwebassets.runtime.json
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\IPOApplication.exe
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\IPOApplication.deps.json
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\IPOApplication.runtimeconfig.json
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\IPOApplication.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\IPOApplication.pdb
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Humanizer.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\MessagePack.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\MessagePack.Annotations.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.Build.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\NuGet.Common.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\NuGet.Configuration.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\NuGet.Frameworks.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\NuGet.LibraryModel.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\NuGet.Packaging.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\NuGet.ProjectModel.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\NuGet.Protocol.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\NuGet.Versioning.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Composition.Convention.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Composition.Hosting.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Composition.Runtime.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Composition.TypedParts.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.csproj.AssemblyReference.cache
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.GeneratedMSBuildEditorConfig.editorconfig
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.AssemblyInfoInputs.cache
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.AssemblyInfo.cs
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.csproj.CoreCompileInputs.cache
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.MvcApplicationPartsAssemblyInfo.cs
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.MvcApplicationPartsAssemblyInfo.cache
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.RazorAssemblyInfo.cache
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.RazorAssemblyInfo.cs
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\staticwebassets\msbuild.IPOApplication.Microsoft.AspNetCore.StaticWebAssets.props
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\staticwebassets\msbuild.build.IPOApplication.props
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.IPOApplication.props
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.IPOApplication.props
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\staticwebassets.pack.json
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\staticwebassets.build.json
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\staticwebassets.development.json
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\scopedcss\bundle\IPOApplication.styles.css
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\scopedcss\projectbundle\IPOApplication.bundle.scp.css
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.csproj.CopyComplete
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\refint\IPOApplication.dll
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.pdb
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\IPOApplication.genruntimeconfig.cache
+G:\DIMIK INFO TECH LIMITED\Final\IPOApplicationWithCORE\IPOApplication\obj\Debug\net6.0\ref\IPOApplication.dll
